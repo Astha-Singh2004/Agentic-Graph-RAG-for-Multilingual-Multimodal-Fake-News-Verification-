@@ -1,0 +1,14 @@
+{
+  "articles": 100000,
+  "real": 50000,
+  "fake": 50000,
+  "train": 80000,
+  "validation": 10000,
+  "test": 10000,
+  "claims": 200000,
+  "entities": 29,
+  "evidence": 300000,
+  "nli": 300000,
+  "social_posts": 20000,
+  "images": 10000
+}
